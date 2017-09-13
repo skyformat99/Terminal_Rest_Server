@@ -1,8 +1,4 @@
-/*
- * model.h
- *
- * Contains Model definitions including methods, structs, etc.
- */
+
 
 #ifndef SMARTPAY_MODEL_H
 #define SMARTPAY_MODEL_H
